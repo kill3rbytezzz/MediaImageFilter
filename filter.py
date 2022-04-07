@@ -3,7 +3,7 @@ import numpy as np
 import copy
 import matplotlib.pyplot as plt
 
-img = cv2.imread("download.jpeg")
+img = cv2.imread("image.jpeg")
 
 def bgtogray(imgs):
 
