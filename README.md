@@ -5,4 +5,5 @@ Using Python with some required library
  - numpy as np
  - copy
  - matplotlib.pyplot
+ - 
 Change "image.jpg" with your own image name and format, make sure its inside one directory
